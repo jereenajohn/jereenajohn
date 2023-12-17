@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Flutter App Development**
 
 - 👨‍💻 Portfolio [https://jereenajohn.github.io/Portfolio/](https://jereenajohn.github.io/Portfolio/)
+- - 👨‍💻 Portfolio [www.linkedin.com/in/jereena-john-8a7888277](www.linkedin.com/in/jereena-john-8a7888277)
 
 - 📫 How to reach me **jereenajohn1864@gmail.com**
 
