@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jereena John</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-![MasterHead].(https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_600_2000/0/1677890171661?e=2147483647&v=beta&t=G1OZys6iUT-ZhEb15bzbJL9khW9D6C2nOOBPuh5uXl4)
 
 - 🌱 I’m currently learning **Flutter App Development**
 
