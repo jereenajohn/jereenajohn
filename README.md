@@ -4,7 +4,10 @@
 
 
 # 💫 About Me:
-I'm currently learning Flutter App Development.<br>You can reach me at jereenajohn1864@gmail.com<br>Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
+🌱 I'm currently learning Flutter App Development.<br>📫 You can reach me at jereenajohn1864@gmail.com<br>👨‍💻 Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
+<br>
+💬 Ask me about *Python,Flutter,Angular,Node,Sql*
+
 
 
 ## 🌐 Socials:
