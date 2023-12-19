@@ -1,6 +1,8 @@
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+
 # 💫 About Me:
 I'm currently learning on Flutter App Development.<br>You can reach me at jereenajohn1864@gmail.com<br>Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jereena-john-8a7888277) 
