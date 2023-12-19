@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 
 # 💫 About Me:
-I'm currently learning on Flutter App Development.<br>You can reach me at jereenajohn1864@gmail.com<br>Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
+I'm currently learning Flutter App Development.<br>You can reach me at jereenajohn1864@gmail.com<br>Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
 
 
 ## 🌐 Socials:
