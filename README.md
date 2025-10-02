@@ -35,6 +35,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,python,vscode,mysql,postgres,html,css,bootstrap,figma" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats & Contributions  
