@@ -58,9 +58,24 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🛒 [Bepocart](https://github.com/jereenajohn) – E-Commerce Flutter App  
-- 📱 [Portfolio Website](https://jereenajohn.github.io/Portfolio/) – Personal Portfolio  
-- ⚡ More on [My Repositories](https://github.com/jereenajohn?tab=repositories)  
+
+### 📱 Flutter Apps  
+- **[Be_call](https://github.com/jereenajohn/Be_call)**  
+  📞 A Flutter app used for managing and storing call logs.  
+
+- **[homefoo_restaurant](https://github.com/jereenajohn/homefoo_restaurant)**  
+  🍴 A restaurant-side Flutter app for food ordering and management.  
+
+- **[homefoo_users](https://github.com/jereenajohn/homefoo_users)**  
+  👨‍🍳 A user-side Flutter app to browse restaurants and place food orders.  
+
+- **[raindrops_vendor](https://github.com/jereenajohn/raindrops_vendor)**  
+  🛍️ An eCommerce Flutter app for vendors to upload products and sell online.  
+
+- **[raindrops_users](https://github.com/jereenajohn/raindrops_users)**  
+  🛒 An eCommerce Flutter app for customers to purchase fresh food items online.  
+
+👉 Explore more of my repositories here: [View All Projects](https://github.com/jereenajohn?tab=repositories)  
 
 ---
 
