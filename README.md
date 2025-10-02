@@ -92,13 +92,6 @@
 
 ---
 
-## 👀 Profile Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jereenajohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
 ## ✨ Quote I Follow  
 > *"Great mobile apps are built not just with code, but with passion and precision."*  
 
