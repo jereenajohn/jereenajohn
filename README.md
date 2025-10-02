@@ -33,9 +33,8 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,html,css,nodejs,angular,mysql,firebase,flask,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,thunderclient,python,restapi,appstore,playstore,vscode,xcode,googleapi,razorpay,mysql,postgres,html,css,bootstrap,server,lan,googlemaps,figma" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats & Contributions  
