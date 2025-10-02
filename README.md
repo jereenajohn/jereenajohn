@@ -50,6 +50,13 @@
 
 ---
 
+## 🔄 Pull Request Contributions  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="PR contributions"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects  
 - 🛒 [Bepocart](https://github.com/jereenajohn) – E-Commerce Flutter App  
 - 📱 [Portfolio Website](https://jereenajohn.github.io/Portfolio/) – Personal Portfolio  
