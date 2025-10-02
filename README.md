@@ -33,7 +33,7 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,thunderclient,python,restapi,appstore,playstore,vscode,xcode,googleapi,razorpay,mysql,postgres,html,css,bootstrap,server,lan,googlemaps,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman,python,vscode,mysql,postgres,html,css,bootstrap,figma" />
 </p>
 ---
 
