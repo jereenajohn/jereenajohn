@@ -38,9 +38,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Pull Requests  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical&show=prs" alt="stats" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=radical" alt="streak" height="150"/>
 </p>
 
@@ -52,8 +55,10 @@
 
 ## 🔄 Pull Request Contributions  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="PR contributions"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="recent PR contributions"/>
 </p>
+
+**Total Pull Requests:** `123` <!-- replace `123` with your actual count or script value -->
 
 ---
 
