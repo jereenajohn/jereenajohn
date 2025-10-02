@@ -1,24 +1,67 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 
-<h1 align="center">Hi 👋, I'm Jereena John </h1>
+<h1 align="center">Hi 👋, I'm Jereena John</h1>
+<h3 align="center">🌟 A Passionate Flutter Developer Crafting Elegant Mobile Apps 🌟</h3>
 
+---
 
-# 💫 About Me:
-🌱 I'm a Flutter Developer.<br>📫 You can reach me at jereenajohn1864@gmail.com<br>👨‍💻 Check My Portfolio Here https://jereenajohn.github.io/Portfolio/
-<br>
-💬 Ask me about *Python,Flutter,Angular,Node,Sql*
+## 💫 About Me  
+🌱 Flutter Developer | 💻 Curious Learner | 🚀 Tech Enthusiast  
 
+- 🔭 Currently working on **cross-platform mobile apps**  
+- 🌱 Learning and exploring **advanced Flutter & backend integration**  
+- 💬 Ask me about: **Flutter, Python, Angular, Node.js, SQL**  
+- 📫 Reach me at: **jereenajohn1864@gmail.com**  
+- 🌐 Portfolio: [Click Here](https://jereenajohn.github.io/Portfolio/)  
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jereena-john-8a7888277/) 
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/jereena-john-8a7888277/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jereenajohn1864@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/jereenajohn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jereenajohn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,html,css,nodejs,angular,mysql,firebase,flask,github" />
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=radical" alt="streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jereenajohn&layout=compact&theme=radical" alt="top-langs"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+- 🛒 [Bepocart](https://github.com/jereenajohn) – E-Commerce Flutter App  
+- 📱 [Portfolio Website](https://jereenajohn.github.io/Portfolio/) – Personal Portfolio  
+- ⚡ More on [My Repositories](https://github.com/jereenajohn?tab=repositories)  
+
+---
+
+## ✨ Fun Quote  
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
+---
+
+<p align="center">💖 Thanks for visiting my profile! Let's connect and build something amazing 🚀</p>
+
+<!-- Proudly enhanced with ✨ Markdown magic -->
