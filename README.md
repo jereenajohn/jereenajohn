@@ -86,20 +86,4 @@
 
 ---
 
-## 🎯 Random Developer Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## ✨ Fun Badge Section  
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/made-with-flutter.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</p>
-
----
-
 <p align="center">💖 Thanks for visiting my profile! Let's connect and create impactful apps 🚀</p>
