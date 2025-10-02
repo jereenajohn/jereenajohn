@@ -85,6 +85,20 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jereenajohn&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 👀 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jereenajohn&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
 ## ✨ Quote I Follow  
 > *"Great mobile apps are built not just with code, but with passion and precision."*  
 
