@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me  
-🌟 Passionate **Flutter Developer** with **2 years of hands-on experience** building and delivering high-quality, cross-platform mobile applications for **iOS and Android**.  
+🌟 Passionate **Flutter Developer** with **2+ years of hands-on experience** building and delivering high-quality, cross-platform mobile applications for **iOS and Android**.  
 
 - 🔭 Currently working on **scalable cross-platform apps** with Flutter  
 - 🌱 Exploring **advanced Flutter, state management & backend integration**  
@@ -17,15 +17,15 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/jereena-john-8a7888277/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jereenajohn1864@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/jereenajohn" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -33,53 +33,47 @@
 
 ## 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,html,css,nodejs,angular,mysql,firebase,flask,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,cpp,html,css,nodejs,angular,mysql,firebase,flask,github,vscode,androidstudio" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical&show=prs" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=radical" alt="streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jereenajohn&layout=compact&theme=radical" height="150"/>
 </p>
 
+---
+
+## 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jereenajohn&layout=compact&theme=radical" alt="top-langs"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jereenajohn&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🔄 Pull Request Contributions  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="recent PR contributions"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
-**Total Pull Requests (Public Repos):** `123+`  
-*(auto-updating via GitHub Stats)*  
+**Total Pull Requests (Public Repos):** `123+` *(auto-updating)*  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 📱 Flutter Apps  
-- **[Be_call](https://github.com/jereenajohn/Be_call)**  
-  📞 Call management app built with Flutter.  
-
-- **[homefoo_restaurant](https://github.com/jereenajohn/homefoo_restaurant)**  
-  🍴 Restaurant-side Flutter app for order management.  
-
-- **[homefoo_users](https://github.com/jereenajohn/homefoo_users)**  
-  👨‍🍳 User app to browse restaurants & order food.  
-
-- **[raindrops_vendor](https://github.com/jereenajohn/raindrops_vendor)**  
-  🛍️ Vendor-side eCommerce Flutter app for product management.  
-
-- **[raindrops_users](https://github.com/jereenajohn/raindrops_users)**  
-  🛒 Customer-facing eCommerce Flutter app for online purchases.  
+- **[Be_call](https://github.com/jereenajohn/Be_call)** – 📞 Call management app built with Flutter  
+- **[homefoo_restaurant](https://github.com/jereenajohn/homefoo_restaurant)** – 🍴 Restaurant-side Flutter app for order management  
+- **[homefoo_users](https://github.com/jereenajohn/homefoo_users)** – 👨‍🍳 User app to browse restaurants & order food  
+- **[raindrops_vendor](https://github.com/jereenajohn/raindrops_vendor)** – 🛍️ Vendor-side eCommerce Flutter app for product management  
+- **[raindrops_users](https://github.com/jereenajohn/raindrops_users)** – 🛒 Customer-facing eCommerce Flutter app for online purchases  
 
 👉 Explore more repositories here: [View All Projects](https://github.com/jereenajohn?tab=repositories)  
 
@@ -92,8 +86,19 @@
 
 ---
 
-## ✨ Quote I Follow  
-> *"Great mobile apps are built not just with code, but with passion and precision."*  
+## 🎯 Random Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## ✨ Fun Badge Section  
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/made-with-flutter.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</p>
 
 ---
 
