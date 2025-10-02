@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **scalable cross-platform apps** with Flutter  
 - 🌱 Exploring **advanced Flutter, state management & backend integration**  
-- 💬 Skilled in: **Flutter, Dart, Python, Angular, Node.js, SQL**  
+- 💬 Skilled in: **Flutter, Dart, Python, SQL, Rest Api, Third Party Integrations, App Store & Play Store Hosting**  
 - 📫 Reach me: **jereenajohn1864@gmail.com**  
 - 🌐 Portfolio: [View Portfolio](https://jereenajohn.github.io/Portfolio/)  
 
