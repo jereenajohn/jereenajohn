@@ -38,18 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jereenajohn&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jereenajohn&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jereenajohn&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jereenajohn&theme=radical&hide_border=true&area=true" />
