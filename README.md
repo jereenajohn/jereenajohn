@@ -45,14 +45,6 @@
 
 ---
 
-## 🔄 Pull Request Contributions  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jereenajohn&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
-**Total Pull Requests (Public Repos):** `123+` *(auto-updating)*  
-
----
 
 ## 🚀 Featured Projects  
 
